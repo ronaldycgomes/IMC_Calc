@@ -1,4 +1,4 @@
-# IMC_Calc
+# IMC calculator
 
 A simple project to calculate your BMI (IMC, in porrtuguese) and give you a advice about your weight.
 You can test the project in this link : https://codepen.io/ronaldycgomes/pen/JjEbLea.
